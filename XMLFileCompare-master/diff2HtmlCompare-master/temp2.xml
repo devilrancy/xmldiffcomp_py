@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<catalog>
+		<book>
+			<description>An look at creating applications with XML.</description>
+			<title>XML Developer&apos;s Guide</title>
+			<price>44.9500</price>
+			<author>Gambardella, Matthew</author>
+			<publish_date>2000-10-01</publish_date>
+			<genre>Computer</genre>
+			<key name="@id">bk101</key>
+		</book>
+	</catalog>
+</root>
